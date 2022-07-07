@@ -1,0 +1,130 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/682226.jpg);
+    background-repeat:no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  margin: 0;
+  width: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.766);
+  background-blend-mode: soft-light;
+  color:rgb(255, 255, 255);
+  font-size: 22px;
+}
+img{
+    width: 50%; 
+}
+nav{
+    background: rgb(48, 64, 211);
+    height: 80px;
+    width: 100%;
+    font-family: "Sofia", sans-serif;
+    font-size: 25px;
+    text-shadow: 3px 3px 3px #ababab; }
+ .logo{
+    color:white;
+    font-size: 40px;
+    line-height: 80px;
+    padding:0 100px;
+    font-weight: bold;
+}
+.nav{
+    float: right;
+    margin-right: 20px;
+}
+.navtype{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+a{
+    color:white;
+    font-size: 17px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.437);
+    transition: .5s;
+}
+ .intro{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 2em;
+  text-align: center;
+  background-color: rgba(206, 117, 222, 0);
+}
+.hobbies{
+        display: block;
+        width: 50%;
+        margin: 0 auto;
+        padding-bottom: 2em;
+      background-color: rgba(211, 48, 140, 0.009);
+}
+.priorities{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 2em;
+  background-color: rgba(206, 117, 222, 0);
+}
+.contact{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding: 1em;
+  text-align: center;
+  background-color: rgb(48, 64, 211);
+  color: white;
+  font-size: 30px;
+}
+form{
+    background-color: rgb(48, 64, 211);
+    width: 50%;
+    margin: 2em auto;
+    padding-bottom: 2em;
+}
+.form-group{
+    display: block;
+    margin: 0 0 0 2em;
+    padding:0.5em 0;
+}
+.inline{
+    display: block;
+    height: 20px;
+    width: 90%;
+}
+textarea{
+        width:90%;
+}
+select{
+    display: block;
+    height: 20px;
+    width: 90%;
+}
+.submit{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding: 1em;
+  text-align: center;
+  background-color: rgb(48, 211, 64);
+  color: white;
+  font-size: 15px;
+  border: 0ch;
+}
+.log-in{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding: 1em;
+  text-align: center;
+  background-color: rgb(14, 9, 81);
+  color: white;
+  font-size: 15px;
+  border: 0ch;
+}
+  footer{
+      text-align: center;
+      color: rgb(45, 45, 243);
+  }
